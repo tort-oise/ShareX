@@ -150,4 +150,13 @@
   <data name="QuickTaskMenu_ShowMenu_Continue" xml:space="preserve">
     <value>Fortsätt</value>
   </data>
+  <data name="SwitchToThumbnailView" xml:space="preserve">
+    <value>Växla till miniatyrvy</value>
+  </data>
+  <data name="MainForm_UpdateToggleHotkeyButton_Disable_hotkeys" xml:space="preserve">
+    <value>Inaktivera snabbkommandon</value>
+  </data>
+  <data name="UploadManager_ShowShortenURLDialog_ShortenURL" xml:space="preserve">
+    <value>Förkorta länk</value>
+  </data>
 </root>

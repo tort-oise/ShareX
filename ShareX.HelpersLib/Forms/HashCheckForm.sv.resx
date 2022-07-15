@@ -129,4 +129,22 @@
   <data name="btnFilePathBrowse2.Text" xml:space="preserve">
     <value>Bläddra...</value>
   </data>
+  <data name="lblResult.Text" xml:space="preserve">
+    <value>Resultat:</value>
+  </data>
+  <data name="btnHashCheckDecodeBase64.Text" xml:space="preserve">
+    <value>Avkoda</value>
+  </data>
+  <data name="btnHashCheckDecodeASCII.Text" xml:space="preserve">
+    <value>Avkoda</value>
+  </data>
+  <data name="btnHashCheckDecodeHex.Text" xml:space="preserve">
+    <value>Avkoda</value>
+  </data>
+  <data name="btnHashCheckDecodeBinary.Text" xml:space="preserve">
+    <value>Avkoda</value>
+  </data>
+  <data name="btnHashCheckEncodeText.Text" xml:space="preserve">
+    <value>Koda in</value>
+  </data>
 </root>

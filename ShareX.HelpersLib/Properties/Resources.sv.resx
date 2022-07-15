@@ -276,4 +276,40 @@
   <data name="HotkeyType_BorderlessWindow_Category" xml:space="preserve">
     <value>Verktyg</value>
   </data>
+  <data name="HotkeyType_ToggleActionsToolbar" xml:space="preserve">
+    <value>Visa eller dölj handlingar</value>
+  </data>
+  <data name="AfterUploadTasks_ShareURL" xml:space="preserve">
+    <value>Dela länk</value>
+  </data>
+  <data name="AfterCaptureTasks_CopyImageToClipboard" xml:space="preserve">
+    <value>Kopiera bild till urklipp</value>
+  </data>
+  <data name="ReplCodeMenuCategory_Image" xml:space="preserve">
+    <value>Bild</value>
+  </data>
+  <data name="AfterUploadTasks_UseURLShortener" xml:space="preserve">
+    <value>Förkorta länk</value>
+  </data>
+  <data name="ActionsCodeMenuEntry_FilePath_File_path" xml:space="preserve">
+    <value>Sökväg</value>
+  </data>
+  <data name="HotkeyType_OpenMainWindow" xml:space="preserve">
+    <value>Öppna huvudfönstret</value>
+  </data>
+  <data name="HotkeyType_ShortenURL" xml:space="preserve">
+    <value>Förkorta länk</value>
+  </data>
+  <data name="Result" xml:space="preserve">
+    <value>Resultat:</value>
+  </data>
+  <data name="EDataType_File" xml:space="preserve">
+    <value>Fil</value>
+  </data>
+  <data name="EDataType_Image" xml:space="preserve">
+    <value>Bild</value>
+  </data>
+  <data name="EDataType_Text" xml:space="preserve">
+    <value>Text</value>
+  </data>
 </root>

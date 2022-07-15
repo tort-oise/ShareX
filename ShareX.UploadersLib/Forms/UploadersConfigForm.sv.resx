@@ -270,4 +270,28 @@
   <data name="lblImageShackPassword.Text" xml:space="preserve">
     <value>Lösenord:</value>
   </data>
+  <data name="tpURLShorteners.Text" xml:space="preserve">
+    <value>Länkförkortare</value>
+  </data>
+  <data name="cbAmazonS3StripExtensionText.Text" xml:space="preserve">
+    <value>Text</value>
+  </data>
+  <data name="cbAmazonS3StripExtensionImage.Text" xml:space="preserve">
+    <value>Bild</value>
+  </data>
+  <data name="cbGoogleCloudStorageStripExtensionText.Text" xml:space="preserve">
+    <value>Text</value>
+  </data>
+  <data name="cbGoogleCloudStorageStripExtensionImage.Text" xml:space="preserve">
+    <value>Bild</value>
+  </data>
+  <data name="tpFileUploaders.Text" xml:space="preserve">
+    <value>Filuppladdare</value>
+  </data>
+  <data name="tpTextUploaders.Text" xml:space="preserve">
+    <value>Textuppladdare</value>
+  </data>
+  <data name="tpImageUploaders.Text" xml:space="preserve">
+    <value>Bilduppladdare</value>
+  </data>
 </root>

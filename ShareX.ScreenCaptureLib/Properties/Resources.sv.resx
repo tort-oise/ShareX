@@ -129,4 +129,13 @@
   <data name="ScreenRecordForm_Start" xml:space="preserve">
     <value>Starta</value>
   </data>
+  <data name="ShapeManager_CreateToolbar_Edit" xml:space="preserve">
+    <value>Redigera</value>
+  </data>
+  <data name="ImageEffects" xml:space="preserve">
+    <value>Lägg till bildeffekter...</value>
+  </data>
+  <data name="ShapeManager_CreateToolbar_Image" xml:space="preserve">
+    <value>Bild</value>
+  </data>
 </root>

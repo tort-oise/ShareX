@@ -117,22 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Error" xml:space="preserve">
-    <value>Fel</value>
-  </data>
-  <data name="UploadersConfigForm_Error" xml:space="preserve">
-    <value>Fel</value>
-  </data>
-  <data name="URL" xml:space="preserve">
-    <value>URL</value>
-  </data>
-  <data name="ShortenedURL" xml:space="preserve">
-    <value>Förkortad länk</value>
-  </data>
-  <data name="ThumbnailURL" xml:space="preserve">
-    <value>Länk för tumnagel</value>
-  </data>
-  <data name="DeletionURL" xml:space="preserve">
-    <value>Länk för borttagning</value>
+  <data name="btnAction.Text" xml:space="preserve">
+    <value>Nedladdning</value>
   </data>
 </root>

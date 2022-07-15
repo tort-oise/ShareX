@@ -126,4 +126,7 @@
   <data name="btnRefreshSources.Text" xml:space="preserve">
     <value>Uppdatera</value>
   </data>
+  <data name="btnDownload.Text" xml:space="preserve">
+    <value>Nedladdning</value>
+  </data>
 </root>

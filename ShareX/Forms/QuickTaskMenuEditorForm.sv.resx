@@ -132,4 +132,10 @@
   <data name="btnReset.Text" xml:space="preserve">
     <value>Återställ till standardvärden...</value>
   </data>
+  <data name="lblTip.Text" xml:space="preserve">
+    <value>Tips: Om du lägger till en tom uppgift så konverteras den till en separator.</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>ShareX - Redigera snabbuppgiftsmenyn</value>
+  </data>
 </root>

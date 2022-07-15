@@ -120,4 +120,7 @@
   <data name="lblLanguage.Text" xml:space="preserve">
     <value>Språk:</value>
   </data>
+  <data name="lblResult.Text" xml:space="preserve">
+    <value>Resultat:</value>
+  </data>
 </root>

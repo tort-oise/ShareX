@@ -144,4 +144,7 @@
   <data name="btnImageEffects.Text" xml:space="preserve">
     <value>Bildeffekter...</value>
   </data>
+  <data name="btnUploadImage.Text" xml:space="preserve">
+    <value>Ladda upp bild</value>
+  </data>
 </root>
