@@ -120,4 +120,16 @@
   <data name="btnClose.Text" xml:space="preserve">
     <value>Stäng</value>
   </data>
+  <data name="btnAdd.Text" xml:space="preserve">
+    <value>Lägg till</value>
+  </data>
+  <data name="btnEdit.Text" xml:space="preserve">
+    <value>Redigera</value>
+  </data>
+  <data name="btnRemove.Text" xml:space="preserve">
+    <value>Ta bort</value>
+  </data>
+  <data name="btnReset.Text" xml:space="preserve">
+    <value>Återställ till standardvärden...</value>
+  </data>
 </root>

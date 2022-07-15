@@ -129,4 +129,10 @@
   <data name="lblName.Text" xml:space="preserve">
     <value>Namn:</value>
   </data>
+  <data name="btnDuplicate.Text" xml:space="preserve">
+    <value>Duplicera</value>
+  </data>
+  <data name="btnRemove.Text" xml:space="preserve">
+    <value>Ta bort</value>
+  </data>
 </root>

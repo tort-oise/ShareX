@@ -117,16 +117,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="lblFilePath.Text" xml:space="preserve">
-    <value>Filväg:</value>
+  <data name="tsmiCopy.Text" xml:space="preserve">
+    <value>Kopiera bild till urklipp</value>
   </data>
-  <data name="lblFilePath2.Text" xml:space="preserve">
-    <value>Filväg:</value>
+  <data name="tsmiSaveAs.Text" xml:space="preserve">
+    <value>Spara som bildfil...</value>
   </data>
-  <data name="btnFilePathBrowse.Text" xml:space="preserve">
-    <value>Bläddra...</value>
+  <data name="tsmiUpload.Text" xml:space="preserve">
+    <value>Ladda upp bild</value>
   </data>
-  <data name="btnFilePathBrowse2.Text" xml:space="preserve">
-    <value>Bläddra...</value>
+  <data name="tsmiDecode.Text" xml:space="preserve">
+    <value>Avkoda</value>
+  </data>
+  <data name="tpEncode.Text" xml:space="preserve">
+    <value>Koda in</value>
+  </data>
+  <data name="btnDecodeFromFile.Text" xml:space="preserve">
+    <value>Avkoda från bildfil...</value>
+  </data>
+  <data name="lblDecodeResult.Text" xml:space="preserve">
+    <value>Resultat:</value>
+  </data>
+  <data name="btnDecodeFromScreen.Text" xml:space="preserve">
+    <value>Avkoda från skärm...</value>
+  </data>
+  <data name="tpDecode.Text" xml:space="preserve">
+    <value>Avkoda</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>ShareX - QR-kod</value>
   </data>
 </root>

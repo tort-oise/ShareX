@@ -117,16 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="lblFilePath.Text" xml:space="preserve">
-    <value>Filväg:</value>
+  <data name="ShapeManager_CreateContextMenu_Capture" xml:space="preserve">
+    <value>Tagning</value>
   </data>
-  <data name="lblFilePath2.Text" xml:space="preserve">
-    <value>Filväg:</value>
+  <data name="WebpageCaptureForm_UpdateControls_Capture" xml:space="preserve">
+    <value>Tagning</value>
   </data>
-  <data name="btnFilePathBrowse.Text" xml:space="preserve">
-    <value>Bläddra...</value>
+  <data name="Duplicate" xml:space="preserve">
+    <value>Duplicera</value>
   </data>
-  <data name="btnFilePathBrowse2.Text" xml:space="preserve">
-    <value>Bläddra...</value>
+  <data name="ScreenRecordForm_Start" xml:space="preserve">
+    <value>Starta</value>
   </data>
 </root>

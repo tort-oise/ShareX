@@ -123,4 +123,13 @@
   <data name="lblName.Text" xml:space="preserve">
     <value>Namn:</value>
   </data>
+  <data name="btnCancel.Text" xml:space="preserve">
+    <value>Avbryt</value>
+  </data>
+  <data name="btnOK.Text" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="mbCopy.Text" xml:space="preserve">
+    <value>Kopiera</value>
+  </data>
 </root>

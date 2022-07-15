@@ -120,4 +120,10 @@
   <data name="lblName.Text" xml:space="preserve">
     <value>Namn:</value>
   </data>
+  <data name="btnAdd.Text" xml:space="preserve">
+    <value>Lägg till</value>
+  </data>
+  <data name="btnRemove.Text" xml:space="preserve">
+    <value>Ta bort</value>
+  </data>
 </root>

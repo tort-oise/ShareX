@@ -120,4 +120,28 @@
   <data name="btnClose.Text" xml:space="preserve">
     <value>Stäng</value>
   </data>
+  <data name="btnOK.Text" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="btnPresetRemove.ToolTip" xml:space="preserve">
+    <value>Ta bort</value>
+  </data>
+  <data name="btnPresetDuplicate.ToolTip" xml:space="preserve">
+    <value>Duplicera</value>
+  </data>
+  <data name="btnEffectAdd.ToolTip" xml:space="preserve">
+    <value>Lägg till</value>
+  </data>
+  <data name="btnEffectRemove.ToolTip" xml:space="preserve">
+    <value>Ta bort</value>
+  </data>
+  <data name="btnEffectDuplicate.ToolTip" xml:space="preserve">
+    <value>Duplicera</value>
+  </data>
+  <data name="btnEffectRefresh.ToolTip" xml:space="preserve">
+    <value>Uppdatera</value>
+  </data>
+  <data name="btnImageEffects.Text" xml:space="preserve">
+    <value>Bildeffekter...</value>
+  </data>
 </root>

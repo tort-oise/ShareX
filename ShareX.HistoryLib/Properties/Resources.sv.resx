@@ -120,4 +120,10 @@
   <data name="HistoryManager_GetHistoryItems_Error" xml:space="preserve">
     <value>Fel</value>
   </data>
+  <data name="HistoryItemManager_InitializeComponent_URL" xml:space="preserve">
+    <value>URL</value>
+  </data>
+  <data name="HistoryItemManager_InitializeComponent_Copy" xml:space="preserve">
+    <value>Kopiera</value>
+  </data>
 </root>

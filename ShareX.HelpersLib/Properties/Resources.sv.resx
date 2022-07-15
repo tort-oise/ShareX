@@ -129,4 +129,151 @@
   <data name="CodeMenu_Create_Close" xml:space="preserve">
     <value>Stäng</value>
   </data>
+  <data name="HotkeyType_DNSChanger_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="HotkeyType_TweetMessage_Category" xml:space="preserve">
+    <value>Uppladdning</value>
+  </data>
+  <data name="HotkeyType_ScreenColorPicker_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="HotkeyType_FolderUpload_Category" xml:space="preserve">
+    <value>Uppladdning</value>
+  </data>
+  <data name="HotkeyType_MonitorTest_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="HotkeyType_FileUpload_Category" xml:space="preserve">
+    <value>Uppladdning</value>
+  </data>
+  <data name="FileExistAction_Cancel" xml:space="preserve">
+    <value>Spara inte</value>
+  </data>
+  <data name="HotkeyType_IndexFolder_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="HotkeyType_ImageThumbnailer_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="HotkeyType_QRCode_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="HotkeyType_QRCodeDecodeFromScreen_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="PrintForm_LoadSettings_Print" xml:space="preserve">
+    <value>Skriv ut</value>
+  </data>
+  <data name="HotkeyType_VideoConverter_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="HotkeyType_ImageEditor_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="MyMessageBox_MyMessageBox_OK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="MyMessageBox_MyMessageBox_Yes" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="HotkeyType_ImageCombiner_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="HotkeyType_VideoThumbnailer_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="HotkeyType_Ruler_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="ReplCodeMenuCategory_Window" xml:space="preserve">
+    <value>Fönster</value>
+  </data>
+  <data name="HotkeyType_ShortenURL_Category" xml:space="preserve">
+    <value>Uppladdning</value>
+  </data>
+  <data name="ImageEditorStartMode_Fullscreen" xml:space="preserve">
+    <value>Fullskärm</value>
+  </data>
+  <data name="HotkeyType_FTPClient_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="HotkeyType_ClipboardUploadWithContentViewer_Category" xml:space="preserve">
+    <value>Uppladdning</value>
+  </data>
+  <data name="HotkeyType_HashCheck_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="HotkeyType_DragDropUpload_Category" xml:space="preserve">
+    <value>Uppladdning</value>
+  </data>
+  <data name="HotkeyType_ClipboardUpload_Category" xml:space="preserve">
+    <value>Uppladdning</value>
+  </data>
+  <data name="HotkeyType_UploadURL_Category" xml:space="preserve">
+    <value>Uppladdning</value>
+  </data>
+  <data name="HotkeyType_StopUploads_Category" xml:space="preserve">
+    <value>Uppladdning</value>
+  </data>
+  <data name="MyMessageBox_MyMessageBox_No" xml:space="preserve">
+    <value>Nej</value>
+  </data>
+  <data name="Start" xml:space="preserve">
+    <value>Starta</value>
+  </data>
+  <data name="Extensions_AddContextMenu_Copy" xml:space="preserve">
+    <value>Kopiera</value>
+  </data>
+  <data name="DownloaderForm_StartDownload_Cancel" xml:space="preserve">
+    <value>Avbryt</value>
+  </data>
+  <data name="HotkeyType_ColorPicker_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="HotkeyType_ImageEffects_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="MyMessageBox_MyMessageBox_Cancel" xml:space="preserve">
+    <value>Avbryt</value>
+  </data>
+  <data name="HotkeyType_UploadText_Category" xml:space="preserve">
+    <value>Uppladdning</value>
+  </data>
+  <data name="HotkeyType_ImageSplitter_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="ArrowHeadDirection_Start" xml:space="preserve">
+    <value>Starta</value>
+  </data>
+  <data name="HotkeyType_ClipboardViewer_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="HotkeyType_InspectWindow_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="ToastClickAction_CopyImageToClipboard" xml:space="preserve">
+    <value>Kopiera bild</value>
+  </data>
+  <data name="ToastClickAction_CopyUrl" xml:space="preserve">
+    <value>Kopiera länk</value>
+  </data>
+  <data name="EDataType_URL" xml:space="preserve">
+    <value>URL</value>
+  </data>
+  <data name="TaskViewMode_ListView" xml:space="preserve">
+    <value>Visa som lista</value>
+  </data>
+  <data name="TaskViewMode_ThumbnailView" xml:space="preserve">
+    <value>Visa tumnagel</value>
+  </data>
+  <data name="HotkeyType_ImageViewer_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="HotkeyType_OCR_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
+  <data name="HotkeyType_BorderlessWindow_Category" xml:space="preserve">
+    <value>Verktyg</value>
+  </data>
 </root>
